@@ -1,1 +1,1 @@
-{"ucp":{"version":"2026-08-25","capabilities":{"dev.ucp.shopping.cart":[],"dev.ucp.shopping.checkout":[]},"name":"mw-recon-agent","description":"security research agent"}}
+{"ucp":{"version":"2026-08-25","services":{},"capabilities":{},"name":"mw-recon-agent"}}
